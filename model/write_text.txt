@@ -1,0 +1,2 @@
+this is basic text file 
+ it having no contents
